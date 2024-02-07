@@ -2,10 +2,10 @@
    "Inputs": { 
      "data": [
        {
-         "day": 1,
-         "mnth": 1,   
-         "year": 2022,
-         "season": 2,
+         "day": 6,
+         "mnth": 4,   
+         "year": 2023,
+         "season": 1,
          "holiday": 0,
          "weekday": 1,
          "workingday": 1,
